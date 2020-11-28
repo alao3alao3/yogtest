@@ -1,0 +1,10 @@
+// BEGIN_INTERNALS
+/*
+MAP_ZOOM: 1.000
+DIR: code code\datums code\datums\ruins 
+AUTO_FILE_DIR: OFF
+MAP_ICON_TYPE: 0
+WINDOW: code\datums\ruins\space.dm
+FILE: code\datums\ruins\space.dm
+*/
+// END_INTERNALS
